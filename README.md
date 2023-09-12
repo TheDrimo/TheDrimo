@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheDrimo
-- 👀 I’m interested in a lot of thing, but i keep private for anonymous
+- 👀 I’m interested in a lot of thing
 
 <!---
 TheDrimo/TheDrimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
